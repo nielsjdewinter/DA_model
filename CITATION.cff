@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following scientific paper."
+authors:
+- family-names: "de Winter"
+  given-names: "Niels Jonathan"  
+  orcid: "https://orcid.org/0000-0002-1453-5407"
+- family-names: "Snoeck"
+  given-names: "Christophe"
+  orcid: "https://orcid.org/0000-0003-3770-4055"
+- family-names: "Schulting"
+  given-names: "Rick"
+  orcid: "https://orcid.org/0000-0002-4444-766X"
+- family-names: "Fernandez-Crespo"
+  given-names: "Teresa"
+  orcid: "https://orcid.org/0000-0001-5553-8578"
+- family-names: "Claeys"
+  given-names: "Philippe"
+  orcid: "https://orcid.org/0000-0002-4585-7687"
+title: "DA_model"
+version: 1.0.0
+date-released: 2018-01-30
+url: "https://github.com/nielsjdewinter/DA_model"
+preferred-citation:
+  type: article
+  authors:
+- family-names: "de Winter"
+  given-names: "Niels Jonathan"  
+  orcid: "https://orcid.org/0000-0002-1453-5407"
+- family-names: "Snoeck"
+  given-names: "Christophe"
+  orcid: "https://orcid.org/0000-0003-3770-4055"
+- family-names: "Schulting"
+  given-names: "Rick"
+  orcid: "https://orcid.org/0000-0002-4444-766X"
+- family-names: "Fernandez-Crespo"
+  given-names: "Teresa"
+  orcid: "https://orcid.org/0000-0001-5553-8578"
+- family-names: "Claeys"
+  given-names: "Philippe"
+  orcid: "https://orcid.org/0000-0002-4585-7687"
+  doi: "10.1016/j.palaeo.2019.109260"
+  journal: "Palaeogeography, Palaeoclimatology, Palaeoecology"
+  month: 6
+  start: 109260 # First page number
+  end: 109260 # Last page number
+  title: "High-resolution trace element distributions and models of trace element diffusion in enamel of Late Neolithic/Early Chalcolithic human molars from the Rioja Alavesa region (north-central Spain) help to separate biogenic from diagenetic trends"
+  volume: 532
+  year: 2019
